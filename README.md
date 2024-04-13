@@ -26,9 +26,9 @@ for this purpose.
 
 
 ### Output:
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
+![](e1.png)
+![](e2.png)
+![](e3.png)
+![](e4.png)
 ### Result:
 Thus, the preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
